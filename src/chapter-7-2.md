@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enhanced Office Optimization
-================================================================================================================================================
 
 As organizations integrate artificial intelligence (AI) into their office optimization strategies, it's important to establish key performance metrics and goals to evaluate the impact of AI on office optimization. In this chapter, we will explore how organizations can identify these metrics and goals to measure the effectiveness of AI-enhanced office optimization.
 

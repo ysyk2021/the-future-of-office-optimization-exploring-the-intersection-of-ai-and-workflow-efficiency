@@ -1,5 +1,3 @@
-Streamlining Project Management and Scheduling with AI-Enabled Predictive Analytics
-=====================================================================================================================================
 
 In this chapter, we explore how AI-enabled predictive analytics can streamline project management and scheduling, improving workflow efficiency in the office.
 

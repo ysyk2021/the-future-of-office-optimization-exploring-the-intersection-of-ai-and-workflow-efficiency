@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Workflow Analysis and Enhancement
-===================================================================================================================================================
 
 In this chapter, we will explore the basic concepts and processes of AI algorithms that are used for workflow analysis and enhancement in office optimization.
 

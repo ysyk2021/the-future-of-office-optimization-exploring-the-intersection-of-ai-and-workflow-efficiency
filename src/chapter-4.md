@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Workflow Efficiency
-================================================
 
 In this chapter, we explore some key AI techniques for optimizing workflows in the office, including automating repetitive tasks with AI-enabled robotic process automation (RPA), improving communication and collaboration with AI-enabled chatbots and virtual assistants, and streamlining project management and scheduling with AI-enabled predictive analytics.
 

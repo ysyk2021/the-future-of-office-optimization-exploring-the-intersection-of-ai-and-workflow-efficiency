@@ -1,5 +1,3 @@
-The Future of AI in Office Optimization
-==============================================================
 
 AI is rapidly changing the way we work, and its impact on office optimization is only beginning to be realized. In this chapter, we explore some potential future developments in the use of AI for workflow efficiency and productivity in the office.
 

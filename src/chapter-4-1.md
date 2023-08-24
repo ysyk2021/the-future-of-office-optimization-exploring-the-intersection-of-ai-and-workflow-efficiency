@@ -1,5 +1,3 @@
-Automating Repetitive Tasks with AI-Enabled Robotic Process Automation (RPA)
-==============================================================================================================================
 
 In this chapter, we explore how AI-enabled robotic process automation (RPA) can automate repetitive tasks and significantly improve workflow efficiency in the office.
 

@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Office Optimization
-=============================================================
 
 As organizations integrate artificial intelligence (AI) into their office optimization strategies, it's important to evaluate the impact of AI on office optimization. In this chapter, we will explore how organizations can measure the return on investment (ROI) and effectiveness of AI implementation in office optimization. We will also identify key performance metrics and goals for AI-enhanced office optimization.
 

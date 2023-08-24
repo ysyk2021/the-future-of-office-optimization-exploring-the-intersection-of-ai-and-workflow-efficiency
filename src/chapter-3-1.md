@@ -1,5 +1,3 @@
-Identifying Your Office Goals and Priorities for Optimal Efficiency and Productivity
-=====================================================================================================================================================
 
 In this chapter, we explore how to identify your office goals and priorities for optimal efficiency and productivity. By taking a strategic approach to office optimization, organizations can achieve significant improvements in workflow efficiency and productivity.
 

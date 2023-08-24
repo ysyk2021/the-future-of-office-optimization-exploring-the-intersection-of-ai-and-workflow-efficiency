@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Office Optimization
-==============================================================
 
 In this chapter, we will explore the basics of AI technology for office optimization. We will cover the basic concepts and processes of AI algorithms, different types of AI techniques and applications, and tools and platforms that enable AI-enabled office optimization.
 

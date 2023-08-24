@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enhanced Office Optimization
-===============================================================
 
 In this chapter, we explore how to get started with AI-enhanced office optimization. By taking a strategic and thoughtful approach to office optimization, organizations can achieve optimal workflow efficiency and productivity.
 

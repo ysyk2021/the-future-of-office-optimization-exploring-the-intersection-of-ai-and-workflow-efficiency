@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Office Optimization
-==================================================
 
 Artificial intelligence (AI) has the potential to transform the way organizations approach office optimization. In this chapter, we will explore the impact of AI on office optimization and how it can enable organizations to become more proactive, efficient, and effective in their operations.
 
