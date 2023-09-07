@@ -10,3 +10,7 @@ Whether you're an executive looking to improve your organization's workflow effi
 In the following chapters, we'll explore the various ways in which AI can be used to optimize office operations, enhance collaboration, and drive productivity. We'll also provide case studies, examples, and recommendations for businesses looking to implement AI-based solutions. So, let's dive into the future of office optimization and discover how AI can transform the way we work.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
