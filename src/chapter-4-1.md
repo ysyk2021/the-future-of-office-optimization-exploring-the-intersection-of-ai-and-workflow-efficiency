@@ -1,5 +1,4 @@
-Chapter 6: Automating Repetitive Tasks with AI-Enabled Robotic Process Automation (RPA)
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the dynamic intersection of AI and Robotic Process Automation (RPA), shedding light on how businesses can leverage these technologies to automate repetitive tasks, streamline operations, and drive efficiency in the modern office environment.
 

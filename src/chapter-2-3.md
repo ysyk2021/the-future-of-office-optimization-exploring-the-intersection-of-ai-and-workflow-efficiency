@@ -1,5 +1,4 @@
-Chapter 9: Tools and Platforms for AI-Enabled Office Optimization
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the wide array of tools and platforms available to businesses seeking to harness the power of AI for office optimization. These tools and platforms play a critical role in facilitating the integration and deployment of AI solutions to enhance workflow efficiency and productivity.
 

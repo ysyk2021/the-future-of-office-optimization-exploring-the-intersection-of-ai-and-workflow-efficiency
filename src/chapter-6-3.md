@@ -1,5 +1,4 @@
-Chapter 7: Enabling Continuous Learning and Improvement in Office Optimization Practice
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of fostering a culture of continuous learning and improvement in the realm of office optimization, specifically through the integration of AI-driven tools and practices.
 

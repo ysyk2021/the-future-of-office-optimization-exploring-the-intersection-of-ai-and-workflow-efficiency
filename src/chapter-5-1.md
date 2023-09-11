@@ -1,5 +1,4 @@
-Chapter 14: Reducing Manual Labor and Human Error with AI-Enabled Decision-Making and Recommendation Systems
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the pivotal role of AI-enabled decision-making and recommendation systems in minimizing manual labor and mitigating human error within the domain of office optimization. We will delve into how these AI technologies streamline processes, enhance productivity, and improve the overall quality of work in the modern office environment.
 

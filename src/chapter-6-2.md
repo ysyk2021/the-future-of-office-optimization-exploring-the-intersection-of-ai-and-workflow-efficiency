@@ -1,5 +1,4 @@
-Chapter 5: Improving Efficiency, Quality, and Relevance of Office Optimization Outcomes
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into strategies and approaches that harness the power of AI to enhance the efficiency, quality, and relevance of office optimization outcomes, ensuring that businesses can thrive in the evolving landscape of work environments.
 

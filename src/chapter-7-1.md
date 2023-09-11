@@ -1,5 +1,4 @@
-Chapter 11: Measuring the ROI and Effectiveness of AI Implementation in Office Optimization
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial process of measuring the return on investment (ROI) and overall effectiveness of AI implementation within the context of office optimization. Understanding how to assess the impact of AI technologies is essential for making informed decisions and continuously improving workflow efficiency.
 

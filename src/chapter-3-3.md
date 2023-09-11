@@ -1,5 +1,4 @@
-Chapter 15: Creating a Customized Roadmap for AI Implementation in Your Office Optimization Strategy
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of developing a tailored roadmap for implementing AI within your office optimization strategy. Crafting a customized plan is essential to harness the full potential of AI technologies, ensuring they align seamlessly with your organization's unique goals and needs.
 
